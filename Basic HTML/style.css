@@ -1,0 +1,100 @@
+body{
+    margin:0;
+    /* background-color: rgb(96, 199, 199);  */
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 3.2rem;
+}
+
+#top-container{
+    background-color:#406882; 
+    position: relative;
+    padding-top:100px;
+}
+#top-container span{
+    text-decoration: underline;
+}
+#top-container p{
+    font-size:1.5rem;
+}
+
+.myself{
+    margin-top:45px;
+    width:15%;
+}
+.top-cloud{
+    position: absolute;
+    right:300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left:300px;
+    bottom: 300px;
+}
+.skill-row{
+   margin: 80px auto 80px auto;
+   width: 50%;
+   text-align: left;
+   margin-bottom: 80px;
+}
+.computer-img{
+    width: 25%;
+    float: left;
+    margin-right:30px;
+}
+.chillies-img{
+    width: 25%;
+    float: right;
+    margin-left:30px;
+    /* margin-bottom: 30px; */
+}
+.hr1{
+    border-top: 8px dotted #7b8686;
+    width:8%;
+}
+.profile-row{
+    margin-top:10px;
+    margin-bottom: 80px;
+}
+.skills{
+    margin-top: 80px;
+    /* margin-bottom: 30px;     */  
+}
+.skills h2{
+    color: #2398c7;
+    margin-top: 80px;
+}
+.bottom-container{
+    padding: 20px;
+    background-color: #66BFBF;
+    margin-top: 50px;
+}
+.copyright{
+  margin-top:40px;
+}
+.footer-link{
+    margin-top: 40px;
+    padding:10px;
+}
+.last{
+    margin-top:30px;
+}
+.btn{
+    margin-top:30px;
+    margin-bottom:10px;
+    text-decoration: none;
+    color:white;
+    background-color:#66BFBF;
+    border-radius:5px;
+    width:10%;
+    height:10%;
+    font-size: 16px;
+    border-style: none;
+}
+.contact-me{
+    margin-top:50px;
+}
